@@ -1,1 +1,37 @@
-
+{
+  "type": "FeatureCollection",
+  "features": [
+   {
+      "@id": “https://www.animaatlas.org/archive/ursamer18721",
+      "type": "Feature",
+      "properties": {
+        "title": “ursamer1872.1",
+        "department": "ursus americanus",
+        "method": “american black bear"
+      },
+      "types": [
+        {
+          "label": "1872"
+        }
+      ],
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.19485,
+          -123.659288
+        ]
+      },
+      "descriptions": [
+        {
+          "value": "On Monday, 24 June, 1872, a Black bear (Anima: URSAMER1872.1) was shot and killed near Kerbyville (also referenced as Kirbyville, Kirby, modern name: Kerby) in Southern Oregon in the United States of America."
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://commons.wikimedia.org/wiki/File:NIE_1905_Bear_-_skull.jpg",
+          "thumbnail": “https://commons.wikimedia.org/wiki/File:NIE_1905_Bear_-_skull.jpg”
+        }
+      ]
+    }
+  ]
+}
