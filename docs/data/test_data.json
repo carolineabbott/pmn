@@ -2,12 +2,12 @@
   "type": "FeatureCollection",
   "features": [
    {
-      "@id": “https://www.animaatlas.org/archive/ursamer18721",
+      "@id": "https://www.animaatlas.org/archive/ursamer18721",
       "type": "Feature",
       "properties": {
-        "title": “ursamer1872.1",
+        "title": "ursamer1872.1",
         "department": "ursus americanus",
-        "method": “american black bear"
+        "method": "american black bear"
       },
       "types": [
         {
@@ -29,7 +29,7 @@
       "depictions": [
         {
           "@id": "https://commons.wikimedia.org/wiki/File:NIE_1905_Bear_-_skull.jpg",
-          "thumbnail": “https://commons.wikimedia.org/wiki/File:NIE_1905_Bear_-_skull.jpg”
+          "thumbnail": "https://commons.wikimedia.org/wiki/File:NIE_1905_Bear_-_skull.jpg"
         }
       ]
     }
