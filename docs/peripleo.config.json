@@ -8,7 +8,7 @@
     { "name": "Year", "path": ["types", "label"] },
     { "name": "Period", "path": ["properties", "periods"] },
     { "name": "Technique", "path": ["properties", "techniques"] },
-    { "name": "Method of Acquisition", "path": ["properties", "method"] },
+    { "name": "Common Names", "path": ["properties", "method"] },
     { "name": "Acquired from", "path": ["properties", "acquiredFrom"] }
   ],
   "link_icons": [
