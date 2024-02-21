@@ -25,7 +25,7 @@ const Welcome = props => {
         <p>
           Welcome to <strong>Anima Atlas</strong>, powered by Peripleo, a prototypal, open source GIS program first developed for 
           the Locating a National Collection project.
-          Take the tour to learn about the main user interface elements.
+          Take the tour to learn how to navigate the atlas.
         </p>
         
         <div className="p6o-welcome-buttons">
