@@ -5,7 +5,7 @@
   ],
   "map_style": "./map-style-OSM.json",
   "facets": [
-    { "name": "Category", "path": ["types", "label"] },
+    { "name": "Year", "path": ["types", "label"] },
     { "name": "Period", "path": ["properties", "periods"] },
     { "name": "Technique", "path": ["properties", "techniques"] },
     { "name": "Method of Acquisition", "path": ["properties", "method"] },
