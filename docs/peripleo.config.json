@@ -6,10 +6,10 @@
   "map_style": "./map-style-OSM.json",
   "facets": [
     { "name": "Year", "path": ["types", "label"] },
-    { "name": "Period", "path": ["properties", "periods"] },
-    { "name": "Technique", "path": ["properties", "techniques"] },
+    { "name": "Historical Period", "path": ["properties", "periods"] },
+    { "name": "Taxonomy", "path": ["properties", "techniques"] },
     { "name": "Common Names", "path": ["properties", "method"] },
-    { "name": "Acquired from", "path": ["properties", "acquiredFrom"] }
+    { "name": "Lifestage", "path": ["properties", "acquiredFrom"] }
   ],
   "link_icons": [
     
