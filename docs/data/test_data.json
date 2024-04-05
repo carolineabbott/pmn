@@ -8,7 +8,7 @@
         "title": "blackbear1872.1",
         "department": "ursus americanus",
         "method": "american black bear"
-        "LifeStage": "Adult",
+        "acquiredFrom": "Adult",
         "SpecimenSex": "Male"
       },
       "types": [
