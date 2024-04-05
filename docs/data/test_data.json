@@ -2,10 +2,10 @@
   "type": "FeatureCollection",
   "features": [
    {
-      "@id": "https://www.animaatlas.org/archive/ursamer18721",
+      "@id": "https://www.animaatlas.org/archive/blackbear18721",
       "type": "Feature",
       "properties": {
-        "title": "ursamer1872.1",
+        "title": "blackbear1872.1",
         "department": "ursus americanus",
         "method": "american black bear"
       },
