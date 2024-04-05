@@ -9,12 +9,7 @@
         "department": "ursus americanus",
         "method": "american black bear"
         "LifeStage": "Adult",
-        "SpecimenSex": "Male",
-        "LocDeath": "Rogue River Oregon",
-        "LocContinent": "North America",
-        "AncestLand": "Takelma",
-        "AssocMount": "Siskiyou"
-
+        "SpecimenSex": "Male"
       },
       "types": [
         {
