@@ -7,8 +7,26 @@
       "properties": {
         "title": "blackbear1872.1",
         "department": "ursus americanus",
-        "method": "american black bear"
-        "acquiredFrom": "adult"
+        "method": "american black bear",
+        "acquiredFrom": "adult",
+        "periods": "19th",
+        "SpecimenSex": "Male",
+        "LocDeath": "Rogue River Oregon",
+        "LocLived": "Rogue River Oregon",
+        "LocContinent": "North America",
+        "AncestLand": "Takelma",
+        "AssocMount": "Siskiyou",
+        "AssocRiver": "Rogue River",
+        "AssocForest": "Rogue River Siskiyou National Forest",
+        "SpecForm": "Osteo",
+        "SpecLoc": "Cambridge Museum of Zoology Cambridge England",
+        "CollectionName": "Walsingham Field Collection",
+        "CollectorName": "Thomas de Grey 6th Baron Walsingham Lord Walsingham",
+        "AssocExped": "Walsingham Expedition 1871 to 1872",
+        "PurpCollect": "Trophy Hunting",
+        "NatKill": "Shot",
+        "SpecProc": "Thomas Carrier",
+        "AssocEmp": "British Empire"
       },
       "types": [
         {
