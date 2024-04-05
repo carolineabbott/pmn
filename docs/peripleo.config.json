@@ -6,10 +6,29 @@
   "map_style": "./map-style-OSM.json",
   "facets": [
     { "name": "Year", "path": ["types", "label"] },
+    { "name": "Date of Death", "path": ["types", "DateDeath"] },
     { "name": "Historical Period", "path": ["properties", "periods"] },
     { "name": "Taxonomy", "path": ["properties", "techniques"] },
     { "name": "Common Names", "path": ["properties", "method"] },
-    { "name": "Lifestage", "path": ["properties", "acquiredFrom"] }
+    { "name": "Lifestage", "path": ["properties", "acquiredFrom"] },
+    { "name": "Linean Names", "path": ["properties", "LinName"] },
+    { "name": "Sex", "path": ["properties", "SpecimenSex"] },
+    { "name": "Location of Death", "path": ["properties", "LocDeath"] },
+    { "name": "Location Lived", "path": ["properties", "LocLived"] },
+    { "name": "Continent", "path": ["properties", "LocContinent"] },
+    { "name": "Associated Ancestral Land", "path": ["properties", "AncestLand"] },
+    { "name": "Associated Mountain", "path": ["properties", "AssocMount"] },
+    { "name": "Associated River", "path": ["properties", "AssocRiver"] },
+    { "name": "Associated Forest", "path": ["properties", "AssocForest"] },
+    { "name": "Specimen", "path": ["properties", "SpecForm"] },
+    { "name": "Location of Specimen", "path": ["properties", "SpecLoc"] },
+    { "name": "Collection Name", "path": ["properties", "CollectionName"] },
+    { "name": "Collector Name", "path": ["properties", "CollectorName"] },
+    { "name": "Associated Expedition", "path": ["properties", "AssocExped"] },
+    { "name": "Purpose of Collection", "path": ["properties", "PurpCollect"] },
+    { "name": "Nature of Killing", "path": ["properties", "NatKill"] },
+    { "name": "Specimen Processor", "path": ["properties", "SpecProc"] },
+    { "name": "Associated Empire", "path": ["properties", "AssocEmp"] }
   ],
   "link_icons": [
     
