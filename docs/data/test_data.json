@@ -6,32 +6,12 @@
       "type": "Feature",
       "properties": {
         "title": "blackbear1872.1",
-        "ComName": "american black bear"
-        "LinName": "ursus americanus",
-        "LifeStage": "Adult",
-        "SpecimenSex": "Male",
-        "LocDeath": "Rogue River Oregon",
-        "LocLived": "Rogue River Oregon",
-        "LocContinent": "North America",
-        "AncestLand": "Takelma",
-        "AssocMount": "Siskiyou",
-        "AssocRiver": "Rogue River",
-        "AssocForest": "Rogue River Siskiyou National Forest",
-        "SpecForm": "Osteo",
-        "SpecLoc": "Cambridge Museum of Zoology Cambridge England",
-        "CollectionName": "Walsingham Field Collection",
-        "CollectorName": "Thomas de Grey 6th Baron Walsingham Lord Walsingham",
-        "AssocExped": "Walsingham Expedition 1871 to 1872",
-        "CenturyPeriod": "19th",
-        "PurpCollect": "Trophy Hunting",
-        "NatKill": "Shot",
-        "SpecProc": "Thomas Carrier",
-        "AssocEmp": "British Empire"
+        "department": "ursus americanus",
+        "method": "american black bear"
       },
       "types": [
         {
-          "YearDeath": "1872",
-          "DateDeath": "24 June 1872"
+          "label": "1872"
         }
       ],
       "geometry": {
@@ -43,7 +23,7 @@
       },
       "descriptions": [
         {
-          "value": "On Monday, 24 June, 1872, a Black bear (Anima: blackbear1872.1) was shot and killed near Kerbyville (also referenced as Kirbyville, Kirby, modern name: Kerby) in Southern Oregon in the United States of America."
+          "value": "On Monday, 24 June, 1872, a Black bear (Anima: URSAMER1872.1) was shot and killed near Kerbyville (also referenced as Kirbyville, Kirby, modern name: Kerby) in Southern Oregon in the United States of America."
         }
       ],
       "depictions": [
