@@ -34,7 +34,17 @@
         "AssocHibernation": "Yes",
         "InvolvedSettlers": "California Settlers",
         "InvolvedRacialSocial": "Chinese emigrants and labourers",
-        "AssocHumans": "Chinese emigrants and labourers"
+        "AssocHumans": "Chinese emigrants and labourers",
+        "PotentialHumans": "Mark McNicholas",
+        "AssocPredation": "Predation unlikely",
+        "AssocHabituation": "Possible habituation",
+        "AssocHistTheme": "Race and Environment",
+        "AssocExtractive": "Mining and Prospecting",
+        "AssocSeason": "Winter",
+        "AssocSizeAdjective": "Large",
+        "AssocWeight": "At or over 1000lbs",
+        "AssocLength": "Unknown"
+    
       },
       "types": [
         {
