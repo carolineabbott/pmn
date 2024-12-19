@@ -23,9 +23,9 @@ const Welcome = props => {
         <h1>Welcome!</h1>
 
         <p>
-          Welcome to <strong>Anima Atlas</strong>, powered by Peripleo, a prototypal, open source GIS program first developed for 
+          Welcome to the Predator Microhistory Network. This map is powered by Peripleo, a prototypal, open source GIS program first developed for 
           the Locating a National Collection project.
-          Take the tour to learn how to navigate the atlas.
+          Take the tour to learn how to navigate this atlas.
         </p>
         
         <div className="p6o-welcome-buttons">
