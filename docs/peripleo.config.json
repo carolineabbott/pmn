@@ -48,7 +48,7 @@
     { "name": "Involved Racial and Social Groups", "path": ["properties", "InvolvedRacialSocial"] },
     { "name": "Involved Human Figures", "path": ["properties", "AssocHumans"] },
     { "name": "Noted Human Informants", "path": ["properties", "AssocInformants"] },
-    { "name": "Possibly Linked Human Figures", "path": ["properties", "AssocHumans"] },
+    { "name": "Potentially Linked Human Figures", "path": ["properties", "PotentialHumans"] },
     { "name": "Event Relationship to Predation Behaviour", "path": ["properties", "AssocPredation"] },
     { "name": "Event Relationship to Habituation Behaviour", "path": ["properties", "AssocHabituation"] },
     { "name": "Animals for Live Public Display or Performance", "path": ["properties", "AssocPublic"] },
