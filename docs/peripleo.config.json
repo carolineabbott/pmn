@@ -27,7 +27,7 @@
     { "name": "Associated Mountain", "path": ["properties", "AssocMount"] },
     { "name": "Associated River", "path": ["properties", "AssocRiver"] },
     { "name": "Associated Body of Water", "path": ["properties", "BodyofWater"] },
-    { "name": "Associated Coastal Region", "path": ["properties", "Coastal Region"] },
+    { "name": "Associated Coastal Region", "path": ["properties", "CoastalRegion"] },
     { "name": "Associated Forest", "path": ["properties", "AssocForest"] },
     { "name": "Associated Desert", "path": ["properties", "AssocDesert"] },
     { "name": "Associated Plain or Prairie", "path": ["properties", "AssocPlainPrairie"] },
