@@ -79,6 +79,80 @@
           "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Historic_American_Buildings_Survey_Sacramento_Chamber_of_Commerce%2C_Calif._Original-_1860_GENERAL_VIEW_-_Metropolitan_Hotel%2C_San_Andreas%2C_Calaveras_County%2C_CA_HABS_CAL%2C5-SAND%2C7-1.tif/lossy-page1-2560px-thumbnail.tif.jpg"
         }
       ]
+    },
+    {
+      "@id": "https://www.animaatlas.org/",
+      "type": "Feature",
+      "properties": {
+        "Species": "Ursus arctos horribilis",
+        "CommName": "Grizzly Bear",
+        "UAN": "GB.1859.3",
+        "Decade": "1850-1860",
+        "Month": "November",
+        "Date": "8 November 1859",
+        "Mortality": "Died",
+        "SpecimenSex": "Male",
+        "Age": "Adult",
+        "LocEvent": "Oakland Hills",
+        "NationorEmpire": "United States of America",
+        "CityorTown": "Oakland, California",
+        "County": "Contra Costa County, California",
+        "StateProvTerr": "California",
+        "AncestralLand": "Ohlone Peoples",
+        "LocContinent": "North America",
+        "AssocMount": "Oakland Hills, Oakland, California",
+        "BodyofWater": "San Francisco Bay",
+        "AssocTerrEcoregion": "Mediterranean California ecoregion",
+        "AssocEdgeEffect": "Involves Edge Effect or Ecotone",
+        "ApproxElevation": "42-1725ft",
+        "CoastalRegion": "CaliforniaPacific",
+        "AssocBloodsport": "Not associated with bloodsport",
+        "AssocHunting": "Hunted",
+        "AssocCommunity": "Community of Bears at Location",
+        "AssocFood": "Sold for meat",
+        "AssocHealth": "Good Health",
+        "AssocHibernation": "Yes",
+        "InvolvedSettlers": "California Settlers",
+        "PotentialHumans": "Maryland",
+        "AssocPredation": "Predation possible",
+        "AssocHabituation": "Possible habituation",
+        "AssocSeason": "Winter",
+        "AssocSizeAdjective": "Large",
+        "AssocWeight": "Unknown",
+        "AssocLength": "Unknown ",
+        "SourceType": "Newsprint or Print Media",
+        "NewsPrintTitle": "Daily National Democrat ",
+        "MotherYoung": "Unknown ",
+        "OrphanedYoung": "Unknown ",
+        "AssocWeather": "Mountain Snow",
+        "MultPredInv": "No",
+        "AssocDomesticAnimal": "None known"
+        
+      },
+      "types": [
+        {
+          "Year": "1859",
+          "PredType": "Bears"
+        }
+      ],
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3077354,
+          37.822766
+        ]
+      },
+      "descriptions": [
+        {
+          "value": "GB.1859.3 was a large, likely adult male Grizzly Bear of unknown weight or length. GB.1859.3 was shot and killed under unknown circumstances on Tuesday, 8 November 1859 on the outskirts of Oakland, California, possibly in the Oakland Hills. GB.1859.3 was killed within the plausible bounds of the Winter Rest Period colloquially referred to as “Hibernation,” and the factors which resulted in this bear’s death or motivation for its killing are unknown. The status of GB.1859.3’s health upon his death is unknown from available resources, but basis exists to consider that the overall condition of this Bear may plausibly be presumed to have been good: GB.1859.3’s carcass was brought to San Francisco and sold, likely, for meat. It is likely that GB.1859.3 was killed by settlers, and given regional history, it is possible that GB.1859.3’s killing involved the ranching industry. GB.1859.3’s story appears in two print sources specific to California, both of which can be accessed through the California Digital Newspaper Collection (CDNC). Available geolocational context in these microhistories suggest that GB.1859.3’s killing is likely to have occurred on the land of one or more of the following Indigenous Communities: the Ohlone Peoples, the Muwékma Ohlone Tribe, the Miwok, the Me-Wuk (Bay Miwok), and the Confederated Villages of Lisjan. The timing and location of GB.1859.3’s microhistory suggests the possibility that this Bear’s history should be considered in the context of the history of the California Grizzly, a subspecies considered extinct. GB.1859.3’s microhistory reveals the history of another Bear, also stated to be a Grizzly, GB.1859.3A. Feature Image: Couresty of the California Digital Newspaper Collection, Center for Bibliographic Studies and Research, University of California, Riverside, http://cdnc.ucr.edu. Per the CDNC: 'All newspapers published before January 1, 1926 are in the public domain and therefore have no restriction on use.'"
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://cdnc.ucr.edu/?a=is&oid=DND18591113.1.3&type=userclippingimage&g-recaptcha-response=03AFcWeA7CT5fi1aibl5qV_8h5uVhmSoTP_9cIy9Rtx5WmZ_YoZC7L5_41wjio4pDGhZh-vsf-5gUd6nqzOU-Fr8V4OzcJcWHK9keIgeVN_SKZYCuCL-Riya3C8kVD-5KfuoADxpVBE2MgLYMKBHIp25lSYfjd9k7e7GnLZfHrS2QSjaQxe099FA3qc8V_b4CzWA15GEK9WRt1dUwtzUPjKrfkjgD9ldUr0q4_IFFFT8l5z5qX2t4RoURFOwOUBWjM2VNsKrN1ZjUH_3xFqdiAG0hZcT62-StarEEECuGTs2hG51u5q-3DxMoF89F33nf0hvCAuQt80if94Qf5Ey3oZxGb2Bq_HFpb9_EYmqXYW9BUIOMf_j2shpnky7XKbZBZXlbHkXgYFlc9kRl1MCaxwZB_NDOXnf4RMfCqgyme2wCvtUHNb7MQykJD_1uXyVEEm6y2ujhItlCL46-WrsqOmnqPsO81VPlEdFiESF6FWpgNomnMc5x4ugnHLZPn5yQdsqWFsAhNBZaCevGE2vDSNerGWNxZRNuKO2ktZaW3jvXOjQsAP-lDc4YP7TX2d6vGM9hl3VdK9cJdHPVpn2lNXAfII6GWq7TLCIAPhLRqa6WHLB9KJxGpgW6ri5shQokE5IwF8L_7ZxxVNCC9x5OUgQxDYjxqZGP6gKtXzQ8MMGw9ciMXbSyyTi9PAaR0IreBtW5IZdM9LSo0cEyciVowo-s0fBWCT5RGrL2EFdLed9ONSLOwajg7svC-ZEVFD367hP43XlNP_oNMbCePgl1Jq5OQIz2mjtNtQRnppqhUB3ol0mYcjaTrLBrJfvLQX4TvnNh2ndjfJsDLSkNuhn1A9tU2jNDgRRUKMTcXGevg5ISaTiwnQirhYkKdJi2hByxjHUusL6pwOYCrvVmaPszlji7pOfvGGKKNjTdK-PzHbxqZ2U-7tBMkUKHwQ4tCzFut1R6zjBG3e822Ze-NeU-OsnhffvKW_CdvFn9ROof4fE94qRruLWaEu9dbF9rn-Agq7zesMaqKVC1hgoiCN68Y_9TdGsFY7VjAX8Gq3LKYiAs6R3rOtxAclO5TC0KTo5z6bDGyIrIqZZ93JDiOunGTlIr8rDERPcMfooyjLLa2OLPD3uTVLO_cRAwuu07ORsWgY5u2mnbP1FVz8zC1fO9mR8PZRiY_q_WFAVSvAkMtTDxSEI4DjxFYGCQMQB7WlwkmtctBca9Kz15tynFum65wGm8GDxZz8pCjDsx4qm-HdvYhiN0EaJFsRjlE1eoK-oR-Ai1Qi5kofSzRLimaNjjUrnQYz0_hzUhTba-xHlwcAeagCM4Ne29wSbswdqSjnWrEL3-Ydl1scq_L7ZyPUHsevk9zEjEadVvYfs2ZCvXa8IZKfdRnlCqbknAPAI_P2xwTJWuBgTEnJjY1Ic88r01b3Ub_J9JlHW86Fb6PJdGYez4ZELiBBPp9h0DLUeTf4fLnVlcUBQXlIQi9BmuTgqcaFvewwkyIu8Y1Tv0IYbnPyqWT7OBVzEWJil8Gs_MlatuizQg3ItSPkw8pDik5nFVZtx58bfNw8teC8DLsCfk4c9HwcQGJCuSS0zi5OXBRSTq6kYFH_sDlmuD0zxHe5sz13soKf460uTwaFY0fvIyFk8Sl0MHqFKmH4xeWJIl3ZEUYmQYGkyeET72nO96kQ6elxGgXCjCgazsiM10OKj2HH5BDdCOLtQqnHKPQmRtnN69swkS-YKLr71sc6PpS1lXKzW7oPPYNu1CkQywUTXndSBGXmb2Q6OJOM2kD0D4nO7XHWRJ-brOeFYLbruXM7QdnbDcKzln0MjGHavZM_hVmjUvYMZfBi6FceYc76-MN4_e9OUBQFWWkCKABXtzwnzNqalXb5zpxI7da0ZugQmwSeQBAroILgTbgW0LhocjogMkmdnaGHLGhxlJZ&e=------185-en--20--41-byDA.rev-txt-txIN-grizzly----1859---&width=742&crop=182%2C6754%2C742%2C215",
+          "thumbnail": "https://cdnc.ucr.edu/?a=is&oid=DND18591113.1.3&type=userclippingimage&g-recaptcha-response=03AFcWeA7CT5fi1aibl5qV_8h5uVhmSoTP_9cIy9Rtx5WmZ_YoZC7L5_41wjio4pDGhZh-vsf-5gUd6nqzOU-Fr8V4OzcJcWHK9keIgeVN_SKZYCuCL-Riya3C8kVD-5KfuoADxpVBE2MgLYMKBHIp25lSYfjd9k7e7GnLZfHrS2QSjaQxe099FA3qc8V_b4CzWA15GEK9WRt1dUwtzUPjKrfkjgD9ldUr0q4_IFFFT8l5z5qX2t4RoURFOwOUBWjM2VNsKrN1ZjUH_3xFqdiAG0hZcT62-StarEEECuGTs2hG51u5q-3DxMoF89F33nf0hvCAuQt80if94Qf5Ey3oZxGb2Bq_HFpb9_EYmqXYW9BUIOMf_j2shpnky7XKbZBZXlbHkXgYFlc9kRl1MCaxwZB_NDOXnf4RMfCqgyme2wCvtUHNb7MQykJD_1uXyVEEm6y2ujhItlCL46-WrsqOmnqPsO81VPlEdFiESF6FWpgNomnMc5x4ugnHLZPn5yQdsqWFsAhNBZaCevGE2vDSNerGWNxZRNuKO2ktZaW3jvXOjQsAP-lDc4YP7TX2d6vGM9hl3VdK9cJdHPVpn2lNXAfII6GWq7TLCIAPhLRqa6WHLB9KJxGpgW6ri5shQokE5IwF8L_7ZxxVNCC9x5OUgQxDYjxqZGP6gKtXzQ8MMGw9ciMXbSyyTi9PAaR0IreBtW5IZdM9LSo0cEyciVowo-s0fBWCT5RGrL2EFdLed9ONSLOwajg7svC-ZEVFD367hP43XlNP_oNMbCePgl1Jq5OQIz2mjtNtQRnppqhUB3ol0mYcjaTrLBrJfvLQX4TvnNh2ndjfJsDLSkNuhn1A9tU2jNDgRRUKMTcXGevg5ISaTiwnQirhYkKdJi2hByxjHUusL6pwOYCrvVmaPszlji7pOfvGGKKNjTdK-PzHbxqZ2U-7tBMkUKHwQ4tCzFut1R6zjBG3e822Ze-NeU-OsnhffvKW_CdvFn9ROof4fE94qRruLWaEu9dbF9rn-Agq7zesMaqKVC1hgoiCN68Y_9TdGsFY7VjAX8Gq3LKYiAs6R3rOtxAclO5TC0KTo5z6bDGyIrIqZZ93JDiOunGTlIr8rDERPcMfooyjLLa2OLPD3uTVLO_cRAwuu07ORsWgY5u2mnbP1FVz8zC1fO9mR8PZRiY_q_WFAVSvAkMtTDxSEI4DjxFYGCQMQB7WlwkmtctBca9Kz15tynFum65wGm8GDxZz8pCjDsx4qm-HdvYhiN0EaJFsRjlE1eoK-oR-Ai1Qi5kofSzRLimaNjjUrnQYz0_hzUhTba-xHlwcAeagCM4Ne29wSbswdqSjnWrEL3-Ydl1scq_L7ZyPUHsevk9zEjEadVvYfs2ZCvXa8IZKfdRnlCqbknAPAI_P2xwTJWuBgTEnJjY1Ic88r01b3Ub_J9JlHW86Fb6PJdGYez4ZELiBBPp9h0DLUeTf4fLnVlcUBQXlIQi9BmuTgqcaFvewwkyIu8Y1Tv0IYbnPyqWT7OBVzEWJil8Gs_MlatuizQg3ItSPkw8pDik5nFVZtx58bfNw8teC8DLsCfk4c9HwcQGJCuSS0zi5OXBRSTq6kYFH_sDlmuD0zxHe5sz13soKf460uTwaFY0fvIyFk8Sl0MHqFKmH4xeWJIl3ZEUYmQYGkyeET72nO96kQ6elxGgXCjCgazsiM10OKj2HH5BDdCOLtQqnHKPQmRtnN69swkS-YKLr71sc6PpS1lXKzW7oPPYNu1CkQywUTXndSBGXmb2Q6OJOM2kD0D4nO7XHWRJ-brOeFYLbruXM7QdnbDcKzln0MjGHavZM_hVmjUvYMZfBi6FceYc76-MN4_e9OUBQFWWkCKABXtzwnzNqalXb5zpxI7da0ZugQmwSeQBAroILgTbgW0LhocjogMkmdnaGHLGhxlJZ&e=------185-en--20--41-byDA.rev-txt-txIN-grizzly----1859---&width=742&crop=182%2C6754%2C742%2C215"
+        }
+      ]
     }
   ]
 }
