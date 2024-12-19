@@ -43,7 +43,6 @@
     { "name": "Escaped from Capture or Captivity", "path": ["properties", "AssocEscaped"] },
     { "name": "For Consumption or Consumed for Food or Medicinal Purposes", "path": ["properties", "AssocFood"] },
     { "name": "Health", "path": ["properties", "AssocHealth"] },
-    { "name": "Test", "path": ["properties", "Test"] },
     { "name": "Event in Proximity to the Hibernation, Torpor, or Winter Rest Period", "path": ["properties", "AssocHibernation"] },
     { "name": "Involved Settler Groups", "path": ["properties", "InvolvedSettlers"] },
     { "name": "Involved Racial and Social Groups", "path": ["properties", "InvolvedRacialSocial"] },
