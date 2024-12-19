@@ -43,8 +43,16 @@
         "AssocSeason": "Winter",
         "AssocSizeAdjective": "Large",
         "AssocWeight": "At or over 1000lbs",
-        "AssocLength": "Unknown"
-    
+        "AssocLength": "Unknown",
+        "SourceType": "Newsprint or Print Media",
+        "NewsPrintTitle": "Sacramento Daily Union",
+        "MotherYoung": "Unknown",
+        "OrphanedYoung": "Unknown",
+        "AssocWeather": "Mountain Snow",
+        "AssocWeatherNotable": "Mild or warm winter",
+        "MultPredInv": "No",
+        "AssocWildAnimal": "Ruminants",
+        "AssocDomesticAnimal": "None known"
       },
       "types": [
         {
