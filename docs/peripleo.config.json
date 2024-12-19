@@ -76,7 +76,7 @@
     { "name": "Location of Specimen Animal", "path": ["properties", "SpecLoc"] },
     { "name": "Collection Name", "path": ["properties", "CollectionName"] },
     { "name": "Associated Expedition", "path": ["properties", "AssocExped"] },
-    { "name": "Purpose of Collection", "path": ["properties", "PurpCollect"] },
+    { "name": "Purpose of Collection", "path": ["properties", "PurpCollect"] }
   ],
   "link_icons": [
     
