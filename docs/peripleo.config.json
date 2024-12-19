@@ -63,7 +63,7 @@
     { "name": "Associated Colloquialism", "path": ["properties", "AssocColloquialism"] },
     { "name": "Weight", "path": ["properties", "AssocWeight"] },
     { "name": "Length", "path": ["properties", "AssocLength"] },
-    { "name": "Source Type", "path": ["properties", "SourceType"] },
+    { "name": "Source Type ", "path": ["properties", "SourceType"] },
     { "name": "Newsprint and Print Media by Publication Title", "path": ["properties", "NewsPrintTitle"] },
     { "name": "Mother Young Relationship", "path": ["properties", "MotherYoung"] },
     { "name": "Orphaned Young Involved", "path": ["properties", "OrphanedYoung"] },
