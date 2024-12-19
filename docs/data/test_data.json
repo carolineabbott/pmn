@@ -2,43 +2,51 @@
   "type": "FeatureCollection",
   "features": [
    {
-      "@id": "https://www.animaatlas.org/archive/blackbear18721",
+      "@id": "https://www.animaatlas.org/",
       "type": "Feature",
       "properties": {
-        "title": "blackbear1872.1",
-        "department": "ursus americanus",
-        "method": "american black bear",
-        "acquiredFrom": "adult",
-        "periods": "19th",
-        "SpecimenSex": "Male",
-        "LocDeath": "Rogue River Oregon",
-        "LocLived": "Rogue River Oregon",
+        "Species": "Ursus arctos horribilis",
+        "CommName": "Grizzly Bear",
+        "UAN": "GB.1859.1",
+        "Decade": "1850-1860",
+        "Month": "November",
+        "Date": "18 November 1859",
+        "Mortality": "Died",
+        "SpecimenSex": "Unknown",
+        "Age": "Adult",
+        "LocEvent": "Bear Mountain",
+        "NationorEmpire": "United States of America",
+        "CityorTown": "San Andreas, California",
+        "County": "Calaveras County, California",
+        "StateProvTerr": "California",
+        "AncestralLand": "Miwok",
         "LocContinent": "North America",
-        "AncestLand": "Takelma",
-        "AssocMount": "Siskiyou",
-        "AssocRiver": "Rogue River",
-        "AssocForest": "Rogue River Siskiyou National Forest",
-        "SpecForm": "Osteo",
-        "SpecLoc": "Cambridge Museum of Zoology Cambridge England",
-        "CollectionName": "Walsingham Field Collection",
-        "CollectorName": "Thomas de Grey 6th Baron Walsingham Lord Walsingham",
-        "AssocExped": "Walsingham Expedition 1871 to 1872",
-        "PurpCollect": "Trophy Hunting",
-        "NatKill": "Shot",
-        "SpecProc": "Thomas Carrier",
-        "AssocEmp": "British Empire"
+        "AssocMount": "Bear Mountain, San Andreas, California",
+        "AssocRiver": "Calaveras River",
+        "AssocTerrEcoregion": "California chaparral and woodlands",
+        "AssocEdgeEffect": "Involves Edge Effect or Ecotone",
+        "ApproxElevation": "800-2500ft",
+        "AssocBloodsport": "Not associated with bloodsport",
+        "AssocHunting": "Hunted",
+        "AssocCommunity": "Community of Bears at Location",
+        "AssocFood": "Sold for meat and medicinal purposes",
+        "AssocHealth": "Good Health",
+        "AssocHibernation": "Yes",
+        "InvolvedSettlers": "California Settlers",
+        "InvolvedRacialSocial": "Chinese emigrants and labourers",
+        "AssocHumans": "Chinese emigrants and labourers"
       },
       "types": [
         {
-          "label": "1872",
-          "DateDeath": "24 June 1872"
+          "Year": "1859",
+          "PredType": "Bears"
         }
       ],
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -123.659288,
-          42.19485
+          -120.716853,
+          38.163292
         ]
       },
       "descriptions": [
