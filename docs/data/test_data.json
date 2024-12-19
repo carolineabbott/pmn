@@ -43,7 +43,8 @@
         "AssocSeason": "Winter",
         "AssocSizeAdjective": "Large",
         "AssocWeight": "At or over 1000lbs",
-        "AssocLength": "Unknown "
+        "AssocLength": "Unknown ",
+        "SourceType": "Newsprint or Print Media"
        
       },
       "types": [
