@@ -81,7 +81,7 @@
       ]
     },
     {
-      "@id": "https://www.animaatlas.org/",
+      "@id": "https://www.animaatlas.org/projectpages",
       "type": "Feature",
       "properties": {
         "Species": "Ursus arctos horribilis",
