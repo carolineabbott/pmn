@@ -220,6 +220,73 @@
           "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/9/98/1858_San_Jose_%2826654541066%29.jpg"
         }
       ]
+    },
+    {
+      "@id": "https://www.animaatlas.org/what-is-anima",
+      "type": "Feature",
+      "properties": {
+        "Species": "Ursus arctos horribilis",
+        "CommName": "Grizzly Bear",
+        "UAN": "GB.1859.2B",
+        "Decade": "1850-1860",
+        "Month": "November",
+        "Date": "28 November 1859",
+        "Mortality": "Died",
+        "SpecimenSex": "Unknown",
+        "Age": "Juvenile",
+        "LocEvent": "San Jose",
+        "NationorEmpire": "United States of America",
+        "CityorTown": "San Jose, California",
+        "County": "Santa Clara County, California",
+        "StateProvTerr": "California",
+        "AncestralLand": "Tamien Nation",
+        "LocContinent": "North America",
+        "AssocMount": "San Jose, California",
+        "AssocTerrEcoregion": "California chaparral and woodlands",
+        "AssocEdgeEffect": "Involves Edge Effect or Ecotone",
+        "AssocBloodsport": "Not associated with bloodsport",
+        "AssocHunting": "Likely hunted",
+        "AssocCommunity": "Community of Bears at Location",
+        "AssocFood": "Sold for meat",
+        "AssocHealth": "Good Health",
+        "AssocHibernation": "Yes",
+        "InvolvedSettlers": "California Settlers",
+        "AssocPredation": "Unknown",
+        "AssocHabituation": "Unknown",
+        "AssocSeason": "Winter",
+        "AssocWeight": "Unknown",
+        "AssocLength": "Unknown ",
+        "SourceType": "Newsprint or Print Media",
+        "NewsPrintTitle": "Sacramento Daily Union ",
+        "MotherYoung": "Yes ",
+        "MultPredInv": "Yes",
+        "AssocDomesticAnimal": "None known"
+        
+      },
+      "types": [
+        {
+          "Year": "1859",
+          "PredType": "Bears"
+        }
+      ],
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.891315,
+          37.3389259
+        ]
+      },
+      "descriptions": [
+        {
+          "value": "A grizzly, weighing 400 pounds, and two cubs were recently shot near San Jose and brought to San Francisco, reported the Sacramento Daily Union on 28 November 1859. GB.1859.2A was an adult female Grizzly Bear shot with her two cubs (GB.1859.2B and GB.1859.2C, whose sexes and developmental stage or age are unknown) near San Jose, California prior to 28 November 1859. GB.1859.2A weighed 400lbs. Size, sex, and more specific age details pertaining to GB.1859.2B and GB.1859.2C are not known. GB.1859.2A, GB.1859.2B and GB.1859.2C were brought to San Francisco after being killed. It is likely their meat was sold at the San Francisco meat market. A date of 28 November 1859 has been retained for this history as a more specific date cannot be determined at this time, but it is likely that GB.1859.2A and cubs were up to a fortnight prior to the publication of this report in the Union, likely in mid-November of 1859. The sale of Grizzly meat was still common in San Francisco at this time. It is not known whether GB.1859.2A and cubs were deliberately hunted for profit or consumption, or whether they were killed for predation or as a result of habituation. Available geolocational context in this microhistory suggest that GB.1859.2A, GB.1859.2B, and GB.1859.2C’s killings are likely to have occurred on the land of one or more of the following Indigenous Communities: Tamien Nation, Muwekma, and Ohlone Peoples. The timing and location of GB.1859.2A’s microhistory suggests the possibility that this Bear’s history should be considered in the context of the history of the California Grizzly, a subspecies considered extinct. Due to limited context for GB.1859.2A, GB.1859.2B, and GB.1859.2C, the specific location at which this microhistory took place is presently unknown. St. James Park has been selected as a representative location for this microhistory due to its proximity to other historic sites within the town’s nineteenth century footprint, and its establishment (originally as St. James’s Square) in 1848. It is likely GB.1859.2A and cubs were shot in the hills to the east of San Jose. Feature image: 1858 San Jose, lithograph of a drawing of the view from San Jose City Hall on North Market Street looking south toward Santa Clara Street by Levi Goodrich, lithographed by Kuchel and Dressel, printed by Britton and Rey. CC BY-SA 2.0 San Jose Public Library via Wikicommons."
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://upload.wikimedia.org/wikipedia/commons/9/98/1858_San_Jose_%2826654541066%29.jpg",
+          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/9/98/1858_San_Jose_%2826654541066%29.jpg"
+        }
+      ]
     }
   ]
 }
