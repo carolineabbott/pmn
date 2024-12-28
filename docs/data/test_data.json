@@ -155,6 +155,78 @@
       ]
     },
     {
+      "@id": "https://www.animaatlas.org/how-anima-uses-gis",
+      "type": "Feature",
+      "properties": {
+        "Species": "Ursus arctos horribilis",
+        "CommName": "Grizzly Bear",
+        "UAN": "GB.1859.3A",
+        "Decade": "1850-1860",
+        "Month": "November",
+        "Date": "12 November 1859",
+        "Mortality": "Died",
+        "SpecimenSex": "Male",
+        "Age": "Adult",
+        "LocEvent": "Oakland Hills",
+        "NationorEmpire": "United States of America",
+        "CityorTown": "Oakland, California",
+        "County": "Contra Costa County, California",
+        "StateProvTerr": "California",
+        "AncestralLand": "Ohlone Peoples",
+        "LocContinent": "North America",
+        "AssocMount": "Oakland Hills, Oakland, California",
+        "BodyofWater": "San Francisco Bay",
+        "AssocTerrEcoregion": "Mediterranean California ecoregion",
+        "AssocEdgeEffect": "Involves Edge Effect or Ecotone",
+        "ApproxElevation": "42-1725ft",
+        "CoastalRegion": "CaliforniaPacific",
+        "AssocBloodsport": "Not associated with bloodsport",
+        "AssocHunting": "Hunted",
+        "AssocCommunity": "Community of Bears at Location",
+        "AssocHealth": "Good Health",
+        "AssocHibernation": "Yes",
+        "InvolvedSettlers": "California Settlers",
+        "PotentialHumans": "Maryland",
+        "AssocPredation": "Predation possible",
+        "AssocHabituation": "Possible habituation",
+        "AssocSeason": "Winter",
+        "AssocSizeAdjective": "Large",
+        "AssocWeight": "Unknown",
+        "AssocLength": "Over 6ft ",
+        "SourceType": "Newsprint or Print Media",
+        "NewsPrintTitle": "Los Angeles Star ",
+        "MotherYoung": "Unknown ",
+        "OrphanedYoung": "Unknown ",
+        "MultPredInv": "No",
+        "AssocDomesticAnimal": "None known"
+        
+      },
+      "types": [
+        {
+          "Year": "1859",
+          "PredType": "Bears"
+        }
+      ],
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2643472,
+          37.8072093
+        ]
+      },
+      "descriptions": [
+        {
+          "value": "GB.1859.3A was a large, likely adult male Grizzly Bear of unknown weight measuring six feet four inches in length. GB.1859.3A was shot and killed under unknown circumstances on Saturday, 12 November 1859 on the outskirts of Oakland, California, possibly in the Oakland Hills. GB.1859.3A was killed within the range of the Winter Rest period also referred to as Hibernation. The factors which resulted in this Bear's death or which preceded its killing are unknown, but there is strong basis to consider proximity or habituation to settlers as a potential catalyst for human retaliation. The timing and location of GB.1859.3’s microhistory suggests the possibility that this Bear’s history should be considered in the context of the history of the California Grizzly, a subspecies considered extinct. GB.1859.3A’s microhistory is entangled with the history of another Bear, also stated to be a Grizzly, GB.1859.3, killed four days prior in the same place. Given regional history of Oakland, California, it is possible that GB.1859.3 and GB.1859.3A’s killings involved the ranching industry. The status of GB.1859.3A's health upon death is unknown and presumed good. Available geolocational context in these microhistories suggest that GB.1859.3A’s killing is likely to have occurred on the land of one or more of the following Indigenous Communities: the Ohlone Peoples, the Muwékma Ohlone Tribe, the Miwok, the Me-Wuk (Bay Miwok), and the Confederated Villages of Lisjan. On 13 November 1859, the Daily National Democrat reported the earliest known reference to GB.1859.3’s microhistory which establishes the date of death for that Bear as 8 November 1859 (the Tuesday prior to 13 November 1859), stating: A large grizzly was shot and killed last Tuesday a few miles back of Oakland, and his carcass was brought to San Francisco and sold. On November 19 1859, the Los Angeles Star published a letter containing local news items from the San Francisco area dated 13 November 1859 and signed Maryland. It states: Another highwayman, commonly called Bruin, was shot yesterday, a few miles back of Oakland; he measured six feet four inches in length. This is the second grizzly killed lately, whilst prowling the vicinity of a civilized community. The letter’s reference to the killing of a Bear in the same location as GB.1859.3’s killing provides basis for contextualizing GB.1859.3’s history and basis for geolocating the microhistory of GB.1859.3A, another Bear. That Maryland referred to the killing of GB.1859.3A with the same phrase (a few miles back of Oakland) as appears in the Daily National Democrat article of 13 November 1859 which described GB.1859.3’s death identifies a shared location between the histories of these bears using the same linguistic terms, suggesting Maryland may have had exposure to, or involvement in, providing the information which appeared in the original article. These unifying geolocational and linguistic details suggest that, where Maryland refers to GB.1859.3A, as the second grizzly killed lately, the first of these was quite plausibly GB.1859.3. Maryland’s letter primarily refers to the killing of GB.1859.3A on 12 November 1859 (four days after GB.1859.3 — a Saturday, not a Tuesday as was 8 November 1859)."
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://upload.wikimedia.org/wikipedia/commons/0/0c/1857_U.S._Coast_Survey_Map_of_San_Antonio_Creek_and_Oakland%2C_California_%28near_San_Francisco%29_-_Geographicus_-_SanAntonioCreek-uscs-1857.jpg",
+          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/0/0c/1857_U.S._Coast_Survey_Map_of_San_Antonio_Creek_and_Oakland%2C_California_%28near_San_Francisco%29_-_Geographicus_-_SanAntonioCreek-uscs-1857.jpg"
+        }
+      ]
+    },
+    {
       "@id": "https://www.animaatlas.org/resourcelibrary",
       "type": "Feature",
       "properties": {
