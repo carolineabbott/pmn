@@ -37,6 +37,7 @@
     { "name": "Associated with Edge Effect or Ecotone", "path": ["properties", "AssocEdgeEffect"] },
     { "name": "Approximate Elevation", "path": ["properties", "ApproxElevation"] },
     { "name": "Involved in Bloodsport", "path": ["properties", "AssocBloodsport"] },
+    { "name": "Human Fatality or Injury", "path": ["properties", "HumanFatality"] },
     { "name": "Hunted", "path": ["properties", "AssocHunting"] },
     { "name": "Domestication", "path": ["properties", "AssocDomestication"] },
     { "name": "Part of a Community of Like Animals", "path": ["properties", "AssocCommunity"] },
