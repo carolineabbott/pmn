@@ -81,7 +81,7 @@
       ]
     },
     {
-      "@id": "https://www.animaatlas.org/projectpages",
+      "@id": "https://predatormicrohistorynetwork.org/2024/12/09/gb-1859-3/",
       "type": "Feature",
       "properties": {
         "Species": "Ursus arctos horribilis",
@@ -155,7 +155,7 @@
       ]
     },
     {
-      "@id": "https://predatormicrohistorynetwork.org/2024/12/09/gb-1859-3/",
+      "@id": "https://predatormicrohistorynetwork.org/2025/01/21/another-highwayman-bruin-gb-1859-3a/",
       "type": "Feature",
       "properties": {
         "Species": "Ursus arctos horribilis",
@@ -227,7 +227,7 @@
       ]
     },
     {
-      "@id": "https://predatormicrohistorynetwork.org/2025/01/21/another-highwayman-bruin-gb-1859-3a/",
+      "@id": "https://predatormicrohistorynetwork.org/",
       "type": "Feature",
       "properties": {
         "Species": "Ursus arctos horribilis",
