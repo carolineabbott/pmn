@@ -227,12 +227,12 @@
       ]
     },
     {
-      "@id": "https://predatormicrohistorynetwork.org/",
+      "@id": "https://predatormicrohistorynetwork.org/2025/01/23/shot-near-san-jose-brought-to-san-francisco-gb-1859-2-gb-1859-2a-gb-1859-2/",
       "type": "Feature",
       "properties": {
         "Species": "Ursus arctos horribilis",
         "CommName": "Grizzly Bear",
-        "UAN": "GB.1859.2A",
+        "UAN": "GB.1859.2",
         "Decade": "1850-1860",
         "Month": "November",
         "Date": "28 November 1859",
@@ -294,12 +294,12 @@
       ]
     },
     {
-      "@id": "https://www.animaatlas.org/what-is-anima",
+      "@id": "https://predatormicrohistorynetwork.org/2025/01/23/shot-near-san-jose-brought-to-san-francisco-gb-1859-2-gb-1859-2a-gb-1859-2/#GB.1859.2A",
       "type": "Feature",
       "properties": {
         "Species": "Ursus arctos horribilis",
         "CommName": "Grizzly Bear",
-        "UAN": "GB.1859.2B",
+        "UAN": "GB.1859.2A",
         "Decade": "1850-1860",
         "Month": "November",
         "Date": "28 November 1859",
@@ -361,12 +361,12 @@
       ]
     },
     {
-      "@id": "https://www.animaatlas.org/acknowledgement-of-harmful-content",
+      "@id": "https://predatormicrohistorynetwork.org/2025/01/23/shot-near-san-jose-brought-to-san-francisco-gb-1859-2-gb-1859-2a-gb-1859-2/#GB.1859.2B",
       "type": "Feature",
       "properties": {
         "Species": "Ursus arctos horribilis",
         "CommName": "Grizzly Bear",
-        "UAN": "GB.1859.2C",
+        "UAN": "GB.1859.2B",
         "Decade": "1850-1860",
         "Month": "November",
         "Date": "28 November 1859",
