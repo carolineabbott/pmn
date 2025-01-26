@@ -621,6 +621,122 @@
           "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Keddie%27s_map_of_Plumas_County%2C_California_LOC_2012592094-1.jpg/2560px-Keddie%27s_map_of_Plumas_County%2C_California_LOC_2012592094-1.jpg"
         }
       ]
+    },
+    {
+      "@id": "https://predatormicrohistorynetwork.org/about/harmful-content/",
+      "type": "Feature",
+      "properties": {
+        "Species": "Ursus arctos horribilis",
+        "CommName": "Grizzly Bear",
+        "UAN": "GB.1860.2",
+        "Decade": "1860-1870",
+        "Month": "April",
+        "Date": "26 April 1859",
+        "Mortality": "Survived",
+        "SpecimenSex": "Female",
+        "Age": "Adult",
+        "NationorEmpire": "United States of America",
+        "CityorTown": "Red Bluff, California",
+        "County": "Tehama County, California",
+        "StateProvTerr": "California",
+        "AncestralLand": "Wintu",
+        "LocContinent": "North America",
+        "AssocBloodsport": "Not associated with bloodsport",
+        "AssocHunting": "Hunted",
+        "InvolvedSettlers": "California Settlers",
+        "PotentialHumans": "Moore",
+        "AssocPredation": "No predation",
+        "AssocSeason": "Spring",
+        "AssocWeight": "Unknown",
+        "AssocLength": "Unknown ",
+        "SourceType": "Newsprint or Print Media",
+        "NewsPrintTitle": "Red Bluff Beacon",
+        "MotherYoung": "Yes ",
+        "AssocDomesticAnimal": "None known"
+        
+      },
+      "types": [
+        {
+          "Year": "1860",
+          "PredType": "Bears"
+        }
+      ],
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.236797,
+          40.227501
+        ]
+      },
+      "descriptions": [
+        {
+          "value": "On 2 May 1860, the Californian Newspaper the Red Bluff Beacon reported: “A Bear Fight.—A party of gentlemen, from Antelope, were out hunting last week, when they fell in with an old bear and a cub—the latter weighing some two hundred pounds. Mr. Moore was attacked and pretty roughly handled by his cubship, and had not one of the party released his grip by a rifle ball, he would have breathed his last in young bruin’s embrace ; as it was, he came off with a badly mangled thumb and fingers, and a few minor wounds. Jeff Hickman crippled the old bear, but in the excitement of relieving their companion, and killing grizzly junior, grizzly senior sagaciously placed a safe distance between herself and danger, thus saving her hide and tallow for another occasion. Our informant says it was the roughest squabble he ever participated in.” The UANs GB.1860.2 and GB.1860.2A have been assigned to bears involved in this microhistory. GB.1860.2 was the mother of at least one cub, GB.1860.2A, taken captive by Mr. Moore and Mr. Jeff Hickman at some point in late April 1860. This microhistory can be accessed through the California Digital Newspaper Collection (CDNC). Available geolocational context in these microhistories suggest that GB.1860.2’s killing is likely to have occurred on the land of one or more of the following Indigenous Communities: the Dau Pom Wintu. Please see the Predator Microhistory Network's entry for GB.1860.2 and GB.1860.2A for full context and citations."
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "http://archives.csuchico.edu/digital/api/singleitem/image/coll11/22008/default.jpg",
+          "thumbnail": "http://archives.csuchico.edu/digital/api/singleitem/image/coll11/22008/default.jpg"
+        }
+      ]
+    }
+    {
+      "@id": "https://predatormicrohistorynetwork.org/about/harmful-content/",
+      "type": "Feature",
+      "properties": {
+        "Species": "Ursus arctos horribilis",
+        "CommName": "Grizzly Bear",
+        "UAN": "GB.1860.2A",
+        "Decade": "1860-1870",
+        "Month": "April",
+        "Date": "26 April 1859",
+        "Mortality": "Died",
+        "SpecimenSex": "Unknown",
+        "Age": "Young",
+        "NationorEmpire": "United States of America",
+        "CityorTown": "Red Bluff, California",
+        "County": "Tehama County, California",
+        "StateProvTerr": "California",
+        "AncestralLand": "Wintu",
+        "LocContinent": "North America",
+        "AssocBloodsport": "Not associated with bloodsport",
+        "AssocHunting": "Hunted",
+        "InvolvedSettlers": "California Settlers",
+        "PotentialHumans": "Moore",
+        "AssocPredation": "No predation",
+        "AssocSeason": "Spring",
+        "AssocWeight": "Unknown",
+        "AssocLength": "Unknown ",
+        "SourceType": "Newsprint or Print Media",
+        "NewsPrintTitle": "Red Bluff Beacon",
+        "MotherYoung": "Yes ",
+        "AssocDomesticAnimal": "None known"
+        
+      },
+      "types": [
+        {
+          "Year": "1860",
+          "PredType": "Bears"
+        }
+      ],
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.236727,
+          40.227490
+        ]
+      },
+      "descriptions": [
+        {
+          "value": "On 2 May 1860, the Californian Newspaper the Red Bluff Beacon reported: “A Bear Fight.—A party of gentlemen, from Antelope, were out hunting last week, when they fell in with an old bear and a cub—the latter weighing some two hundred pounds. Mr. Moore was attacked and pretty roughly handled by his cubship, and had not one of the party released his grip by a rifle ball, he would have breathed his last in young bruin’s embrace ; as it was, he came off with a badly mangled thumb and fingers, and a few minor wounds. Jeff Hickman crippled the old bear, but in the excitement of relieving their companion, and killing grizzly junior, grizzly senior sagaciously placed a safe distance between herself and danger, thus saving her hide and tallow for another occasion. Our informant says it was the roughest squabble he ever participated in.” The UANs GB.1860.2 and GB.1860.2A have been assigned to bears involved in this microhistory. GB.1860.2A was the cub of GB.1860.2, and was taken captive by Mr. Moore and Mr. Jeff Hickman at some point in late April 1860. This microhistory can be accessed through the California Digital Newspaper Collection (CDNC). Available geolocational context in these microhistories suggest that GB.1860.2A’s capture is likely to have occurred on the land of one or more of the following Indigenous Communities: the Dau Pom Wintu. Please see the Predator Microhistory Network's entry for GB.1860.2 and GB.1860.2A for full context and citations."
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "http://archives.csuchico.edu/digital/api/singleitem/image/coll11/22008/default.jpg",
+          "thumbnail": "http://archives.csuchico.edu/digital/api/singleitem/image/coll11/22008/default.jpg"
+        }
+      ]
     }
   ]
 }
