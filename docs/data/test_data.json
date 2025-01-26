@@ -679,9 +679,9 @@
           "thumbnail": "http://archives.csuchico.edu/digital/api/singleitem/image/coll11/22008/default.jpg"
         }
       ]
-    }
+    },
     {
-      "@id": "https://predatormicrohistorynetwork.org/about/harmful-content/",
+      "@id": "https://predatormicrohistorynetwork.org/archive/",
       "type": "Feature",
       "properties": {
         "Species": "Ursus arctos horribilis",
