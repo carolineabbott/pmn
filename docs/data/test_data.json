@@ -7,6 +7,21 @@
       "properties": {
         "Species": "Ursus arctos horribilis",
         "CommName": "Grizzly Bear",
+        "daten": {
+	        "centuryn": "19th",
+	        "dateDecade": {
+		        "decaden": "1860s",
+		        "dateYear": {
+			        "yearn": "1861",
+			        "dateMonth": {
+				        "monthn": "January",
+				        "dateDay": {
+					        "dayn": "18"
+				        }
+			        }
+		        }
+	        }
+        }
         "UAN": "GB.1859.1",
         "Decade": "1850-1860",
         "Month": "November",
