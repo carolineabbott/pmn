@@ -5,6 +5,7 @@
       "@id": "https://www.animaatlas.org/",
       "type": "Feature",
       "properties": {
+        "Year": "1859",
         "Decade": "1850-1860",
         "Month": "November",
         "Day": "18",
@@ -16,7 +17,6 @@
       },
       "types": [
         {
-          "Year": "1859",
           "PredType": "Bears"
         }
       ],
