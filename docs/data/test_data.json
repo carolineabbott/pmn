@@ -230,7 +230,7 @@
       "@id": "https://predatormicrohistorynetwork.org/",
       "type": "Feature",
       "properties": {
-       "PredType": "Bears",
+        "PredType": "Bears",
         "BearType": "Grizzly Bear, Ursus arctos horribilis",
         "GBSubtype": "California Grizzly, Ursus arctos californicus",
         "Country": "United States",
