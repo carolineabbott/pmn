@@ -76,6 +76,7 @@
     { "name": "California Print Media", "path": ["properties", "CalPrint"] },
     { "name": "Imperial Relationship", "path": ["properties", "ImperialRel"] },
     { "name": "Tracks or UAN Number", "path": ["properties", "TrackorUAN"] },
+    { "name": "Catalogue Number", "path": ["properties", "CatalogueNumber"] },
     { "name": "IUCN Red List Status", "path": ["properties", "IUCNStatus"] }
     
   ],
