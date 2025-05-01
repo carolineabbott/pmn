@@ -651,7 +651,7 @@
       ]
     },
      {
-      "@id": "https://predatormicrohistorynetwork.org/category/bears-mother-with-cubs/event-fatal-to-cubs-unknown-presence-of-others/",
+      "@id": "https://predatormicrohistorynetwork.org/category/bears-mother-with-cubs/",
       "type": "Feature",
       "properties": {
        "PredType": "Bears",
