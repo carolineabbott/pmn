@@ -76,6 +76,81 @@
           "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Historic_American_Buildings_Survey_Sacramento_Chamber_of_Commerce%2C_Calif._Original-_1860_GENERAL_VIEW_-_Metropolitan_Hotel%2C_San_Andreas%2C_Calaveras_County%2C_CA_HABS_CAL%2C5-SAND%2C7-1.tif/lossy-page1-2560px-thumbnail.tif.jpg"
         }
       ]
+    },
+    {
+      "@id": "https://www.wikipedia.org/",
+      "type": "Feature",
+      "properties": {
+        "PredType": "Bears",
+        "BearType": "Grizzly Bear, Ursus arctos horribilis",
+        "GBSubtype": "California Grizzly, Ursus arctos californicus",
+        "Country": "United States",
+        "USState": "California",
+        "CACityTown": "Quincy",
+        "NativeLandRel": ["Mountain Maidu", "Cayuse, Umatilla, and Walla Walla"],
+        "Century": "19th century",
+        "Decade": "1860-1869",
+        "Year": "1860",
+        "Month": "April",
+        "Day": "13",
+        "Tier": "Tier 2: An encounter with a predator animal with no physical contact regardless of proximity",
+        "NumberPredators": "This microhistory involves more than one predator",
+        "MaternityLink": "Maternal microhistories inferred",
+        "Offspring": "2",
+        "Sex": "Female",
+        "Age": "Adult or likely adult",
+        "Health": "Unknown",
+        "PredMortality": "Alive",
+        "AlivePredOutcome": "Presence or proximity to settlement noted",
+        "Season": "Spring",
+        "WinterRest": "With relationship to winter rest period, torpor sleep, or hibernation",
+        "DenSiteFeature": ["Slope", "Elevation"],
+        "HibernationQualities": "Period of emergence from den",
+        "PreyPresence": "Wild prey animals not referenced",
+        "Weight": "Weight unknown",
+        "Length": "Length unknown",
+        "DomAnimals": "None",
+        "Livestock": "None",
+        "SocialGroup": ["Miners and prospectors of the American West", "Hunters of the American West"],
+        "NumberHumans": "One human",
+        "HumanNames": "Shick",
+        "HumanFatality": "No known fatality or injury",
+        "RetaliatoryMotive": "Pretext for retaliation",
+        "ExtractiveLink": "Mineral Mining and Prospecting",
+        "CompanyLink": "O’Hara Mining Claims, Quincy California",
+        "InfrastructureLink": "Mining infrastructure",
+        "MountainRange": "The San Gabriel Mountains",
+        "Mountain": "Claremont Mountain Foothills",
+        "CalRiverSystem": "Feather River",
+        "Ecoregion": "Sierra Nevada Forests",
+        "Biome": "Temperate Conifer Forests",
+        "SourceType": "Newspaper or print media",
+        "PrintMedState": "California",
+        "CalPrint": ["Marysville Daily Appeal", "Plumas Standard", "Daily National Democrat"],
+        "ImperialRel": "American",
+        "TrackorUAN": "Unique Animal Numbers",
+        "CatalogueNumber": "GB.1860.1",
+        "IUCNStatus": "Extinct - Not IUCN Red List Listed"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.951585,
+          39.926613
+        ]
+      },
+      "descriptions": [
+        {
+          "value": "On 20 April 1860, the Californian Newspaper the Marysville Daily Appeal reported: “Plumas County Items. We clip the following items of news from the Plumas Standard of the 14th: Disagreeable Encounter. — As Mr. Shick, of this place, was returning from the O’Hara claims on the hill back of town, on yesterday, he encountered a large bear, which he thinks must have been a grizzly. When within about a mile of Quincy, Mr. S. Lost his way, and endeavoring to find the trail, he came across some tracks which he supposed would lead to it, following which he came to a clump of bushes from which emerged the bear. Rearing, at the sight of our hero, upon his hind legs, as if for a friendly greeting, whereupon Shick drew his pocket-knife, determined to make his best fight. Bruin, however, declined any further contest, and Shick, greatly relieved, sought tracks in a different direction. It is fortunate that he escaped so readily. Once the above was written, our “Nimrods” who, immediately started on receipt of the intelligence, after the bear, have returned, bringing with them, as a trophy, the dead carcass of the venerable bruin with two of his progeny who were alive and kicking, and we might add, scratching, also.” The UANs GB.1860.1, GB.1860.1A, GB.1860.1B have been assigned to this microhistory. This microhistory can be accessed through the California Digital Newspaper Collection (CDNC). Available geolocational context in these microhistories suggest that GB.1860.1’s killing is likely to have occurred on the land of one or more of the following Indigenous Communities: the Mountain Maidu. Please see the Predator Microhistory Network's entry for GB.1860.1, GB.1860.1A, GB.1860.1B for full context, and citations."
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Keddie%27s_map_of_Plumas_County%2C_California_LOC_2012592094-1.jpg/2560px-Keddie%27s_map_of_Plumas_County%2C_California_LOC_2012592094-1.jpg",
+          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Keddie%27s_map_of_Plumas_County%2C_California_LOC_2012592094-1.jpg/2560px-Keddie%27s_map_of_Plumas_County%2C_California_LOC_2012592094-1.jpg"
+        }
+      ]
     }
   ]
 }
