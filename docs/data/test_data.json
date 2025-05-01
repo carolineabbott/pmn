@@ -15,11 +15,6 @@
         "AssocTerrEcoregion": "California chaparral and woodlands"
         
       },
-      "types": [
-        {
-          "PredType": "Bears"
-        }
-      ],
       "geometry": {
         "type": "Point",
         "coordinates": [
