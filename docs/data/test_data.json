@@ -5,6 +5,8 @@
       "@id": "https://www.animaatlas.org/",
       "type": "Feature",
       "properties": {
+        "PredType": "Bears",
+        "BearType": "Grizzly Bear, Ursus arctos horribilis",
         "Year": "1859",
         "Decade": "1850-1859",
         "Month": "November",
