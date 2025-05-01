@@ -425,7 +425,7 @@
       ]
     },
     {
-      "@id": "https://predatormicrohistorynetwork.org/",
+      "@id": "https://www.wikipedia.org/",
       "type": "Feature",
       "properties": {
         "PredType": "Bears",
@@ -500,7 +500,7 @@
       ]
     },
     {
-      "@id": "https://predatormicrohistorynetwork.org/",
+      "@id": "https://en.wikipedia.org/wiki/Grizzly_bear",
       "type": "Feature",
       "properties": {
         "PredType": "Bears",
