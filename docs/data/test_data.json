@@ -444,7 +444,6 @@
         "NumberPredators": "This microhistory involves more than one predator",
         "MaternityLink": "Maternal microhistories inferred",
         "Offspring": "2",
-        "OffspringOutcomes": ["Orphaned", "Captured"],
         "Sex": "Female",
         "Age": "Adult or likely adult",
         "Health": "Unknown",
