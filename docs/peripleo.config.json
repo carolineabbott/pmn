@@ -43,6 +43,7 @@
     { "name": "Agricultural Crop Involvement", "path": ["properties", "Crops"] },
     { "name": "Weight Data", "path": ["properties", "Weight"] },
     { "name": "Length Data", "path": ["properties", "Length"] },
+    { "name": "Track or Paw Length", "path": ["properties", "TrackLength"] },
     { "name": "Domestic Animal Involvement", "path": ["properties", "DomAnimals"] },
     { "name": "Livestock Animal Involvement", "path": ["properties", "Livestock"] },
     { "name": "Involved Social Groups", "path": ["properties", "SocialGroup"] },
