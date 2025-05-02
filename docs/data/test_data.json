@@ -455,6 +455,82 @@
           "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Keddie%27s_map_of_Plumas_County%2C_California_LOC_2012592094-1.jpg/2560px-Keddie%27s_map_of_Plumas_County%2C_California_LOC_2012592094-1.jpg"
         }
       ]
+    },
+    {
+      "@id": "https://en.wikipedia.org/wiki/Sacramento_River",
+      "type": "Feature",
+      "properties": {
+        "PredType": "Bears",
+        "BearType": "Grizzly Bear, Ursus arctos horribilis",
+        "GBSubtype": "California Grizzly, Ursus arctos californicus",
+        "Country": "United States",
+        "USState": "California",
+        "CACityTown": "Quincy",
+        "NativeLandRel": ["Cayuse, Umatilla, and Walla Walla", "Nisenan"],
+        "Century": "19th century",
+        "Decade": "1860-1869",
+        "Year": "1860",
+        "Month": "April",
+        "Day": "28",
+        "Tier": "Tier 1: Represents human-predator conflict or impacts one or more agencies physically",
+        "NumberPredators": "This microhistory involves more than one predator",
+        "MaternityLink": "Maternal microhistories inferred",
+        "Offspring": "1",
+        "OffspringOutcomes": "Killed",
+        "Sex": "Male",
+        "Age": "Yearling or subadult",
+        "Health": "Unknown",
+        "PredMortality": "Killed",
+        "DeadPredOutcome": "Hunted",
+        "Season": "Spring",
+        "WinterRest": "With relationship to winter rest period, torpor sleep, or hibernation",
+        "HibernationQualities": "Period of emergence from den",
+        "PreyPresence": "Wild prey animals not referenced",
+        "Weight": "Weight unknown",
+        "Length": "Length unknown",
+        "DomAnimals": "None",
+        "Livestock": "None",
+        "SocialGroup": "Hunters of the American West",
+        "NumberHumans": "Multiple humans",
+        "HumanNames": ["Moore", "Jeff Hickman"],
+        "HumanFatality": "Human injury",
+        "HuntRel": "Predators deliberately hunted",
+        "HuntMotive": "Unknown",
+        "RetaliatoryMotive": "Not known to be retaliatory",
+        "ExtractiveLink": "Hunting",
+        "MountainRange": "The Sierra Nevada Mountains",
+        "CalRiverSystem": "Sacramento River",
+        "CalRiver": "Antelope Creek",
+        "Ecoregion": ["California Interior Chaparral and Woodlands", "California Central Valley Grasslands"],
+        "Biome": ["Mediterranean Forests, Woodlands and Scrub", "Temperate Grasslands, Savannas and Shrublands"],
+        "SourceType": "Newspaper or print media",
+        "PrintMedState": "California",
+        "CalPrint": ["Sacramento Daily Union", "Daily National Democrat", "Red Bluff Beacon"],
+        "ImperialRel": "American",
+        "TrackorUAN": "Tracks",        
+        "AssocDomesticAnimal": "None known",
+        "CatalogueNumber": "GB.1860.2A",
+        "IUCNStatus": "Extinct - Not IUCN Red List Listed"
+      
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.2680300,
+          38.755631
+        ]
+      },
+      "descriptions": [
+        {
+          "value": "On 2nd May 1860, the Red Bluff Beacon printed: “A Bear Fight.— A party of gentlemen, from Antelope, were out hunting last week, when they fell in with an old bear and a cub—the latter weighing some two hundred pounds. Mr. Moore was attacked and pretty roughly handled by his cubship, and had not one of the party released his grip by a rifle ball, he would have breathed his last in young bruin’s embrace ; as it was, he came off with a badly mangled thumb and fingers, and a few minor wounds. Jeff Hickman crippled the old bear, but in the excitement of relieving their companion, and killing grizzly junior, grizzly senior sagaciously placed a safe distance between herself and danger, thus saving her hide and tallow for another occasion. Our informant says it was the roughest squabble he ever participated in.” The UANs T.GB.1860.2 and GB.1860.2A have been assigned to this microhistory. This microhistory can be accessed through the California Digital Newspaper Collection (CDNC). Please see the Predator Microhistory Network's entry for full context and citations."
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Keddie%27s_map_of_Plumas_County%2C_California_LOC_2012592094-1.jpg/2560px-Keddie%27s_map_of_Plumas_County%2C_California_LOC_2012592094-1.jpg",
+          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Keddie%27s_map_of_Plumas_County%2C_California_LOC_2012592094-1.jpg/2560px-Keddie%27s_map_of_Plumas_County%2C_California_LOC_2012592094-1.jpg"
+        }
+      ]
     }
   ]
 }
