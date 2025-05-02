@@ -115,7 +115,7 @@
         "NumberHumans": "One human",
         "HumanNames": "Shick",
         "HumanFatality": "No known fatality or injury",
-        "RetaliatoryMotive": "Pretext for retaliation",
+        "RetaliatoryMotive": "Pretext or potential pretext for retaliation",
         "ExtractiveLink": "Mineral Mining and Prospecting",
         "CompanyLink": "O’Hara Mining Claims, Quincy California",
         "InfrastructureLink": "Mining infrastructure",
@@ -529,6 +529,78 @@
         {
           "@id": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Keddie%27s_map_of_Plumas_County%2C_California_LOC_2012592094-1.jpg/2560px-Keddie%27s_map_of_Plumas_County%2C_California_LOC_2012592094-1.jpg",
           "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Keddie%27s_map_of_Plumas_County%2C_California_LOC_2012592094-1.jpg/2560px-Keddie%27s_map_of_Plumas_County%2C_California_LOC_2012592094-1.jpg"
+        }
+      ]
+    },
+    {
+      "@id": "https://en.wikipedia.org/wiki/La_Grange,_California",
+      "type": "Feature",
+      "properties": {
+        "PredType": "Bears",
+        "BearType": "Grizzly Bear, Ursus arctos horribilis",
+        "GBSubtype": "California Grizzly, Ursus arctos californicus",
+        "Country": "United States",
+        "USState": "California",
+        "CACityTown": "La Grange",
+        "NativeLandRel": ["Miwok", "Central Sierra Miwok", "Southern Sierra Miwok", "Yokuts"],
+        "Century": "19th century",
+        "Decade": "1860-1869",
+        "Year": "1860",
+        "Month": "May",
+        "Day": "15",
+        "Tier": "Tier 3: Sign, including scat, tracks, a prey cache or den site, etc",
+        "NumberPredators": "This microhistory involves one predator",        
+        "MaternityLink": "Unknown relationship to maternity",
+        "Sex": "Unknown",
+        "Age": "Adult or likely adult",
+        "Health": "Unknown",
+        "PredMortality": "Lived",
+        "AlivePredOutcome": ["Predation attempt or event", "Presence or proximity to settlement noted", "Food conditioning"],    
+        "Season": "Spring",   
+        "WinterRest": "Without relationship to winter rest period, torpor sleep, or hibernation",
+        "PreyPresence": "Wild prey animals not referenced",
+        "Weight": "Weight unknown",
+        "Length": "Length unknown",
+        "TrackLength": "13 inches",
+        "DomAnimals": "Unknown",
+        "Livestock": "Hogs",
+        "SocialGroup": "Ranchers of the American West",
+        "NumberHumans": "Multiple humans",
+        "HumanNames": ["Lord", "Thomas"],
+        "HumanFatality": "No known fatality or injury",
+        "HuntRel": "Pretext or potential pretext for retaliation",
+        "ExtractiveLink": "Ranching",
+        "MountainRange": "The Sierra Nevada Mountains",
+        "CalRiverSystem": "San Joaquin River Basin System",
+        "CalRiver": "The Tuolumne River",
+        "Ecoregion": ["California Interior Chaparral and Woodlands", "California Central Valley Grasslands"],
+        "Biome": ["Mediterranean Forests, Woodlands & Scrub", "Temperate Grasslands, Savannas and Shrublands"],
+        "SourceType": "Newspaper or print media",
+        "PrintMedState": "California",
+        "CalPrint": ["Sacramento Daily Union", "Daily National Democrat", "Stockton Argus"],
+        "ImperialRel": "American",
+        "TrackorUAN": "Tracks",        
+        "AssocDomesticAnimal": "None known",
+        "CatalogueNumber": "T.GB.1860.1",
+        "IUCNStatus": "Extinct - Not IUCN Red List Listed"
+      
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.2948757,
+          37.9540916
+        ]
+      },
+      "descriptions": [
+        {
+          "value": "On 17th May 1860, the Sacramento Daily Union printed: “A Hard Customer.— A grizzly bear, which has infested Stanislaus county recently, has made way with some ten or fifteen hogs, belonging to Lord & Thomas.” The Daily National Democrat published on 18 May: “A correspondent of the Stockton Argus, writing from Upper San Joaquin, says: “A grizzly bear has infested his neighborhood for some time past, and has been doing a general butchering business among the. hogs. During the week he has killed some ten or fifteen hogs belonging to Lord & Thomas. — Judging from the size of his foot (which measures thirteen inches from heel to toe,) he must be one of the “oldest inhabitants.”” The UAN T.GB.1860.1 has been assigned to this microhistory. Pending further details, the location of this microhistory has been set to . This microhistory can be accessed through the California Digital Newspaper Collection (CDNC). Please see the Predator Microhistory Network's entry for full context and citations."
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Stockton_California_circa_1860.jpg",
+          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Stockton_California_circa_1860.jpg"
         }
       ]
     }
