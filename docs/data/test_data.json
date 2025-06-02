@@ -100,7 +100,7 @@
         "Age": "Adult or likely adult",
         "Bearhaviours": "Denning and predenning",
         "Health": "Unknown",
-        "EnvStress": ["Habitat fragmentation", "Habitat degradation"]
+        "EnvStress": ["Habitat fragmentation", "Habitat degradation"],
         "PredMortality": "Lived",
         "AlivePredOutcome": "Presence or proximity to settlement noted",
         "Season": "Spring",
