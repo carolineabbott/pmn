@@ -21,12 +21,13 @@
         "NumberPredators": "One involved predator",
         "Sex": "Unknown",
         "Age": "Adult or likely adult",
+        "Bearhaviours": "Denning and predenning",
         "PredMortality": "Killed",
         "DeadPredOutcome": "Hunted",
         "Season": ["Late autumn or early winter", "Winter"],
         "WinterRest": "With relationship to winter rest period, torpor sleep, or hibernation",
         "DenSiteFeature": ["Slope", "Elevation", "Thermal cover", "Protected den aspect"],
-        "HibernationQualities": ["In or seeking den sites", "Period of seeking high value autumn foods"],
+        "HibernationQualities": "Denning or predenning",
         "WildAnimals": ["Deer", "Unspecified Large Quadrapeds"],
         "PreyPresence": "Wild prey animals referenced",
         "Plant": "Chaparral",
@@ -37,12 +38,11 @@
         "NumberHumans": "Multiple humans",
         "HumanFatality": "No known fatality or injury",
         "Retaliatory": "Not known to be retaliatory",
-        "HuntRel": "Predators deliberately hunted",
         "HuntMotive": ["For trade or sale", "For human consumption"],
         "CorpusComm": ["Meat", "Organs or bodily fluid"],
         "Bloodsport": "Not involved in bloodsport",
         "ExtractiveLink": ["Hunting", "Mineral Mining and Prospecting"],
-        "InfrastructureLink": "Mining infrastructure",
+        "InfrastructureLink": ["Mining infrastructure", "Water and irrigation infrastructure"],
         "MountainRange": "The Sierra Nevada Mountains",
         "Mountain": "Bear Mountain, San Andreas, California",
         "CalRiverSystem": "Calaveras River System",
@@ -51,7 +51,7 @@
         "Biome": "Mediterranean Forests, Woodlands and Scrub",
         "SourceType": "Newspaper or print media",
         "PrintMedState": "California",
-        "CalPrint": ["San Andreas Independent", "San Joaquin Republican", "Sacramento Daily Union", "Daily National Democrat", "Nevada Democrat", "Petaluma Weekly Argus"],
+        "CalPrint": ["San Andreas Independent", "San Joaquin Republican", "Sacramento Daily Union", "Petaluma Weekly Argus", "Nevada Democrat", "Daily National Democrat"],
         "ImperialRel": "American",
         "TrackorUAN": "Unique Animal Numbers",
         "CatalogueNumber": "GB.1859.1",
@@ -67,13 +67,92 @@
       },
       "descriptions": [
         {
-          "value": "“A large grizzly was killed near Bear mountain a few days since, and but a short distance from San Andreas.” News of the Morning, Grizzly Killed. Sacramento Daily Union, 21 November 1859. Racialized content: engage this history with respect and care. GB.1859.1 was an adult Grizzly Bear of unknown sex killed by two hunters near Bear Mountain and the fresh water Calaveras River system in San Andreas, California, United States on or about 18 November, 1859. The story first appeared in the Sacramento Daily Union on 21 November, 1859 and circulated to other California newspapers in various forms from 23 November, 1859 to 6 January, 1860. GB.1859.1’s microhistory represents a hunt motivated by or resulting in human consumption of predator animals and involves the sale of meat as well as body parts. Weight data from the sale of meat suggests a meat weight over 600lbs (271kg). The sale of GB.1859.1’s “gall,” or gallbladder, to a Chinese American community is also significant. Racialized, sensationalized commentary on this sale contribute to the visibility of GB.1859.1’s microhistory in Californian newspapers. This microhistory takes place on or involves the Ancestral Lands of the Miwok (Miwuk, Mi-Wuk, Me-Wuk) People of California, including the Central Sierra Miwok and the Northern Sierra Miwok (Me-Wuk). As an encounter which describes an animal’s death, this Bear has been assigned a Unique Animal Number (UAN) of GB.1859.1. This Bear’s history represents an encounter which impacts one or more predator agency physically, and is so classed as a Tier 1 event. Articles described and featured in this microhistory can be accessed courtesy of the California Digital Newspaper Collection and are in the Public Domain. Featured Image: Public Domain via Wikimedia Commons. Historic American Buildings Survey Sacramento Chamber of Commerce, Calif. Original 1860 General View Metropolitan Hotel, San Andreas, Calaveras County, CA. Library of Congress Prints and Photographs Division. Public Domain via Wikicommons."
+          "value": "“A large grizzly was killed near Bear mountain a few days since, and but a short distance from San Andreas.” News of the Morning, Grizzly Killed. Sacramento Daily Union, 21 November 1859. Racialized content: engage this history with respect and care. GB.1859.1 was an adult Grizzly Bear of unknown sex killed by two hunters near Bear Mountain and the fresh water Calaveras River system in San Andreas, California, United States on or about 18 November, 1859. The story first appeared in the Sacramento Daily Union on 21 November, 1859 and circulated to other California newspapers in various forms from 23 November, 1859 to 6 January, 1860. GB.1859.1’s microhistory represents a hunt motivated by or resulting in human consumption of predator animals and involves the sale of meat as well as body parts. Weight data from the sale of meat suggests a meat weight over 600lbs (271kg). The sale of GB.1859.1’s “gall,” or gallbladder, to a Chinese American community is also significant. Racialized, sensationalized commentary on this sale contribute to the visibility of GB.1859.1’s microhistory in Californian newspapers. This microhistory takes place on or involves the Ancestral Lands of the Miwok (Miwuk, Mi-Wuk, Me-Wuk) People of California, including the Central Sierra Miwok and the Northern Sierra Miwok (Me-Wuk). As an encounter which describes an animal’s death, this Bear has been assigned a Unique Animal Number (UAN) of GB.1859.1. This Bear’s history represents an encounter which impacts one or more predator agency physically, and is so classed as a Tier 1 event. Articles described and featured in this microhistory can be accessed courtesy of the California Digital Newspaper Collection and are in the Public Domain. Featured Image: Historic American Buildings Survey Sacramento Chamber of Commerce, Calif. Original 1860 General View Metropolitan Hotel, San Andreas, Calaveras County, CA. Library of Congress Prints and Photographs Division. Public Domain via Wikimedia Commons."
         }
       ],
       "depictions": [
         {
           "@id": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Historic_American_Buildings_Survey_Sacramento_Chamber_of_Commerce%2C_Calif._Original-_1860_GENERAL_VIEW_-_Metropolitan_Hotel%2C_San_Andreas%2C_Calaveras_County%2C_CA_HABS_CAL%2C5-SAND%2C7-1.tif/lossy-page1-2560px-thumbnail.tif.jpg",
           "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Historic_American_Buildings_Survey_Sacramento_Chamber_of_Commerce%2C_Calif._Original-_1860_GENERAL_VIEW_-_Metropolitan_Hotel%2C_San_Andreas%2C_Calaveras_County%2C_CA_HABS_CAL%2C5-SAND%2C7-1.tif/lossy-page1-2560px-thumbnail.tif.jpg"
+        }
+      ]
+    },
+    {
+      "@id": "https://predatormicrohistorynetwork.org/2025/05/29/t-gb-1859-1/",
+      "type": "Feature",
+      "properties": {
+        "PredType": "Bears",
+        "BearType": "Grizzly Bear, Ursus arctos horribilis",
+        "GBSubtype": "California Grizzly, Ursus arctos californicus",
+        "Country": "United States",
+        "USState": "California",
+        "CACityTown": "San Andreas",
+        "NativeLandRel": ["Miwok", "Central Sierra Miwok", "Plains Miwok", "Northern Sierra Miwok"],
+        "Century": "19th century",
+        "Decade": "1850-1859",
+        "Year": "1859",
+        "Month": "November",
+        "Day": "16",
+        "Tier": "Tier 2: An encounter with a predator animal with no physical contact regardless of proximity",
+        "NumberPredators": "This microhistory involves more than one predator",
+        "MaternityLink": "Unknown relationship to maternity",
+        "Sex": "Unknown",
+        "Age": "Adult or likely adult",
+        "Bearhaviours": "Denning and predenning",
+        "Health": "Unknown",
+        "EnvStress": ["Habitat fragmentation", "Habitat degradation"]
+        "PredMortality": "Lived",
+        "AlivePredOutcome": "Presence or proximity to settlement noted",
+        "Season": "Spring",
+        "WinterRest": "With relationship to winter rest period, torpor sleep, or hibernation",
+        "DenSiteFeature": ["Slope", "Elevation"],
+        "HibernationQualities": "Denning or predenning",
+        "WildAnimals": ["Deer", "Unspecified Large Quadrapeds"],
+        "PreyPresence": "Wild prey animals referenced",
+        "Weight": "Weight unknown",
+        "Length": "Length unknown",
+        "DomAnimals": "None",
+        "Livestock": "None",
+        "SocialGroup": ["Miners and prospectors of the American West", "Hunters of the American West"],
+        "NumberHumans": "Multiple humans",
+        "HumanNames": "McNicholas",
+        "HumanFatality": "No known fatality or injury",
+        "HuntMotive": ["For trade or sale", "For human consumption"],
+        "CorpusComm": ["Meat", "Organs or bodily fluid"],
+        "Bloodsport": "Not involved in bloodsport",
+        "ExtractiveLink": ["Hunting", "Mineral Mining and Prospecting", "Water Management and Irrigation"],
+        "InfrastructureLink": ["Mining infrastructure", "Water and irrigation infrastructure"],
+        "MountainRange": "The Sierra Nevada Mountains",
+        "Mountain": "Bear Mountain, San Andreas, California",
+        "CalRiverSystem": "Calaveras River System",
+        "CalRiver": "Calaveras River",
+        "Ecoregion": ["California Interior Chaparral and Woodlands", "Sierra Nevada Forests"],
+        "Biome": "Mediterranean Forests, Woodlands and Scrub",
+        "SourceType": "Newspaper or print media",
+        "PrintMedState": "California",
+        "CalPrint": ["San Andreas Independent", "San Joaquin Republican"],
+        "ImperialRel": "American",
+        "TrackorUAN": "Tracks",
+        "CatalogueNumber": "T.GB.1859.1",
+        "IUCNStatus": "Extinct - Not IUCN Red List Listed"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.951565,
+          39.926583
+        ]
+      },
+      "descriptions": [
+        {
+          "value": "“The presence of numerous grizzly bears near town is reported; the heavy fall of snow in the Sierra Nevadas has driven the deer, bear, and other large game down to the snowless region.” San Andreas, San Joaquin Republican, 20 November 1859. T.GB.1859.1 is a Tracks entry which refers to the sighting and historical presence of grizzly bears on and around Bear Mountain and the Calaveras River system in San Andreas, California, United States, on or about the 16th of November, 1859. This microhistory appears in an article published in the California newspapers the San Andreas Independent (19 November, 1859) and San Joaquin Republican. It describes multiple human actors in proximity to a community of grizzlies in late autumn during their seasonal transition from hyperphagia to the “predenning” or denning behaviours of autumn which precede the winter rest period which continues throughout the subsequent winter. This microhistory describes relationships between meteorological and climatological shifts affect seasonal animal movement, refers to the presence of relevant prey species, and includes its details pertaining to den site features relevant to historicizing Grizzly populations. Evident intersections with extractive industries, including mining, prospecting, and water management divulge the presence of associated infrastructure and settlement contributive to habitat fragmentation. Its reference to the prospecting activities of Mark McNicholas may offer context to the history of GB.1859.1, a Grizzly killed in the same location at the same time, but whose fatality is not referred to in the San Joaquin Republican’s reprint of the original San Andreas Independent article. This microhistory takes place on or involves the Ancestral Lands of the Miwok (Miwuk, Mi-Wuk, Me-Wuk) People of California, including the Central Sierra Miwok and the Northern Sierra Miwok (Me-Wuk). This Bear’s history represents an encounter with a predator animal with no physical contact regardless of proximity and is so classed as a Tier 2 event. Articles described and featured in this microhistory can be accessed courtesy of the California Digital Newspaper Collection and are in the Public Domain. Feature image: Miner’s Cabin, Sierra Nevada Mountains, 1866. Lawrence and Houseworth Collection, Library of Congress Prints and Photographs Online Catalog. Call Number: Lot 3544-53, No. 860. Accessed via Wikicommons. Public Domain."
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Miner%27s_cabin%2C_Sierra_Nevada_Mountains_LCCN2002719073.tif/lossy-page1-2146px-Miner%27s_cabin%2C_Sierra_Nevada_Mountains_LCCN2002719073.tif.jpg",
+          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Miner%27s_cabin%2C_Sierra_Nevada_Mountains_LCCN2002719073.tif/lossy-page1-2146px-Miner%27s_cabin%2C_Sierra_Nevada_Mountains_LCCN2002719073.tif.jpg"
         }
       ]
     },
@@ -95,7 +174,7 @@
         "Day": "13",
         "Tier": "Tier 2: An encounter with a predator animal with no physical contact regardless of proximity",
         "NumberPredators": "This microhistory involves more than one predator",
-        "MaternityLink": "Maternal microhistories inferred",
+        "MaternityLink": "histories inferred",
         "Offspring": "2",
         "Sex": "Female",
         "Age": "Adult or likely adult",
