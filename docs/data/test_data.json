@@ -24,7 +24,7 @@
         "Bearhaviours": "Denning and predenning",
         "PredMortality": "Killed",
         "DeadPredOutcome": "Hunted",
-        "Season": ["Late autumn or early winter", "Winter"],
+        "Season": ["Late autumn or early winter", "Autumn", "Winter"],
         "WinterRest": "With relationship to winter rest period, torpor sleep, or hibernation",
         "DenSiteFeature": ["Slope", "Elevation", "Thermal cover", "Protected den aspect"],
         "HibernationQualities": "Denning or predenning",
@@ -103,7 +103,7 @@
         "EnvStress": ["Habitat fragmentation", "Habitat degradation"],
         "PredMortality": "Lived",
         "AlivePredOutcome": "Presence or proximity to settlement noted",
-        "Season": "Spring",
+        "Season": ["Late autumn or early winter", "Autumn", "Winter"],
         "WinterRest": "With relationship to winter rest period, torpor sleep, or hibernation",
         "DenSiteFeature": ["Slope", "Elevation"],
         "HibernationQualities": "Denning or predenning",
@@ -153,6 +153,83 @@
         {
           "@id": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Miner%27s_cabin%2C_Sierra_Nevada_Mountains_LCCN2002719073.tif/lossy-page1-2146px-Miner%27s_cabin%2C_Sierra_Nevada_Mountains_LCCN2002719073.tif.jpg",
           "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Miner%27s_cabin%2C_Sierra_Nevada_Mountains_LCCN2002719073.tif/lossy-page1-2146px-Miner%27s_cabin%2C_Sierra_Nevada_Mountains_LCCN2002719073.tif.jpg"
+        }
+      ]
+    },
+    {
+      "@id": "https://predatormicrohistorynetwork.org/2025/05/31/t-gb-1859-2/",
+      "type": "Feature",
+      "properties": {
+        "PredType": "Bears",
+        "BearType": "Grizzly Bear, Ursus arctos horribilis",
+        "GBSubtype": "California Grizzly, Ursus arctos californicus",
+        "Country": "United States",
+        "USState": "California",
+        "CACityTown": "San Andreas",
+        "NativeLandRel": ["Miwok", "Central Sierra Miwok", "Plains Miwok", "Northern Sierra Miwok"],
+        "Century": "19th century",
+        "Decade": "1850-1859",
+        "Year": "1859",
+        "Month": "November",
+        "Day": "23",
+        "Tier": "Tier 3: Sign, including scat, tracks, a prey cache or den site, etc",
+        "NumberPredators": "This microhistory involves more than one predator",
+        "MaternityLink": "Unknown relationship to maternity",
+        "Sex": "Unknown",
+        "Age": "Adult or likely adult",
+        "Bearhaviours": "Denning and predenning",
+        "Health": "Unknown",
+        "EnvStress": ["Habitat fragmentation", "Habitat degradation"],
+        "PredMortality": "Lived",
+        "AlivePredOutcome": "Presence or proximity to settlement noted",
+        "Season": ["Late autumn or early winter", "Autumn", "Winter"],
+        "WinterRest": "With relationship to winter rest period, torpor sleep, or hibernation",
+        "DenSiteFeature": ["Slope", "Elevation"],
+        "HibernationQualities": "Denning or predenning",
+        "WildAnimals": ["Deer", "Unspecified Large Quadrapeds"],
+        "PreyPresence": "Wild prey animals referenced",
+        "Weight": "Weight unknown",
+        "Length": "Length unknown",
+        "DomAnimals": "None",
+        "Livestock": "None",
+        "SocialGroup": ["Miners and prospectors of the American West", "Hunters of the American West"],
+        "NumberHumans": "Multiple humans",
+        "HumanNames": "McNicholas",
+        "HumanFatality": "No known fatality or injury",
+        "Bloodsport": "Not involved in bloodsport",
+        "ExtractiveLink": ["Hunting", "Mineral Mining and Prospecting", "Water Management and Irrigation"],
+        "InfrastructureLink": ["Mining infrastructure", "Water and irrigation infrastructure"],
+        "MountainRange": "The Sierra Nevada Mountains",
+        "Mountain": "Bear Mountain, San Andreas, California",
+        "CalRiverSystem": "Calaveras River System",
+        "CalRiver": "Calaveras River",
+        "Ecoregion": ["California Interior Chaparral and Woodlands", "Sierra Nevada Forests"],
+        "Biome": "Mediterranean Forests, Woodlands and Scrub",
+        "SourceType": "Newspaper or print media",
+        "PrintMedState": "California",
+        "CalPrint": ["San Andreas Independent", "San Joaquin Republican", "Sacramento Daily Union", "Petaluma Weekly Argus", "Nevada Democrat", "Daily National Democrat"],
+        "ImperialRel": "American",
+        "TrackorUAN": "Tracks",
+        "CatalogueNumber": "T.GB.1859.2",
+        "IUCNStatus": "Extinct - Not IUCN Red List Listed"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.716773,
+          38.163212
+        ]
+      },
+      "descriptions": [
+        {
+          "value": "“Hunters report that quite a number of the dangerous customers have their lairs among the chapparel (sic) and rocks north-east of Salt Spring Valley, and not over three miles from San Andreas.” Daily National Democrat, 23 November 1859. Racialized content: engage this history with respect and care. T.GB.1859.2 is a Tracks entry which refers to the presence of multiple active grizzly den sites on and around Bear Mountain and the involved Calaveras River system on or about the 23rd of November, 1859. It positions these den sites at a midway point between Salt Spring Valley, a mining settlement and San Andreas, California in the United States associated with predominantly-French settlement near the Bear Mountain Range in the Sierra Nevada Mountains. It interlinks with the primary source bases of both T.GB.1859.1 and GB.1859.1, an adult Grizzly Bear killed on or about 18 November,1859 which correspond to the racialized, sensationalized distribution of GB.1859.1’s connections to the Chinese-American community. The wide distribution of GB.1859.1’s microhistory divulged further details pertaining to the historical ecology of Bear Mountain and the presence of other hunters “enjoying a rich harvest of sport” near Salt Spring Valley and San Andreas, and indeed, divulged the specific location of a predator community to a significant audience of potential hunters. T.GB.1859.2 provides evidence for the continued presence of den sites in this location beyond the bounds of GB.1859.1’s microhistory, and notes the existence of den sites at an additional position between Salt Spring Valley and San Andreas. It historicizes den site selection in Grizzly populations and contextualizes relational aspects of climate history and the agency of weather in shaping predator and environmental microhistories of Northern California. It offers primary source account of responsive animal movement amid climatological fluctuations, historicizes the presence of prey species (such as deer and “large game”) in close proximity to American settlement, and describes the historical presence of wild animal and plant populations of the Calaveras River and the Sierra Nevada Mountains, including chaparral, signaling the historical presence of a keystone plant population. It contextualizes the presence of mining and prospecting industries, their associated infrastructure and labourers and places multiple human actors, social groups, and extractive industries in proximity to grizzly communities displaying “predenning” or denning behaviours typical of autumn, late autumn and early winter which precede the winter rest period. The prospecting activities of Mark McNicholas on Bear mountain, as well as the water infrastructure and management operations of the Calaveras Water Company may offer further context to this history. The proximity of this predator community to extractive activities and settlement can be read in dialogue with other predator populations subject to habitat inaccessibility or fragmentation on overall population health and reproductive outcomes. This microhistory is descriptive of an event which regards “sign” of a predator population or individual, but in which no visual record or physical encounter occurs, and is so classed as a Tier 3 event. Articles described and featured in this microhistory can be accessed courtesy of the California Digital Newspaper Collection and are in the Public Domain. Feature image: Chaparral (Grease-wood adenostoma fasciculatum 6 feet high), Plummer, F. G. Chaparral: Studies in the Dwarf Forests, or Elfin-Wood, of Southern California. United States Service Bulletin No. 85. July 17, 1911. Accessed via Wikicommons. Public Domain."
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Grease-wood_adenostoma_fasciculatum_6_feet_high.jpg/1280px-Grease-wood_adenostoma_fasciculatum_6_feet_high.jpg",
+          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Grease-wood_adenostoma_fasciculatum_6_feet_high.jpg/1280px-Grease-wood_adenostoma_fasciculatum_6_feet_high.jpg"
         }
       ]
     },
